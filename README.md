@@ -1,2 +1,2 @@
-# This is where all my projects will be 
-Keep an eye out for projects, coming soon. 
+# Building my career in software development.  
+I graduated with my Computer Science degree in 2024, I have been studying programming since high school in 2013.  I have built experience through internships and personal projects.  With this compbination of education and experience, I am trying to begin a career in software or web development to challenge myself and bring some stability to my life.   
